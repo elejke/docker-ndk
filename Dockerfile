@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk 
-MAINTAINER German Novikov <genovikov@sberbank.ru>
+MAINTAINER German Novikov <german.novikov@phystech.edu>
 
 ENV ANDROID_TARGET_SDK="29"
 ENV ANDROID_BUILD_TOOLS_VERSION="29.0.2"
